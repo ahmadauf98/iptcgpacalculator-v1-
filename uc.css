@@ -1,0 +1,49 @@
+html,
+body {
+  background: #454545;
+  color: #ededed;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+}
+
+h1 {
+  text-align: center;
+  color: #ededed;
+  font-size: 50px;
+}
+
+h3 {
+    text-align: center;
+    color: #ededed;
+    margin-bottom: 8%;
+  }
+
+#landing{
+    padding-top: 18%;
+    width: 100%;
+    padding-bottom: 18%;
+    background: url(underconstruction.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header{
+    margin-top: 15%;
+}
+
+table tr {
+  text-align: center;
+}
+
+#course-info {
+  margin-top: 10%;
+}
+
+#course-info h3 {
+  text-align: center;
+}
+
+#aadev{
+    margin-left: 12%;
+}
